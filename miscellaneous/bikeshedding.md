@@ -12,7 +12,7 @@ A familiar term, I've heard "bikeshedding" tossed around in high-level conversat
 
 To summarize what I learned: bikeshedding, however common, is just a waste of time <sup>[2](#resource2)</sup>. These hours could be spent on something more productive. Debating fonts and the validity of code comments takes away from valuable dev time. Don't be that guy.
 
-![Dilbert talks bikeshedding](./bikeshed.png)
+![Dilbert talks bikeshedding](./assets/bikeshed.png)
 
 #### Resources
 

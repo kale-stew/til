@@ -1,1 +1,0 @@
-# Getting to Know Git's Interactive Rebase

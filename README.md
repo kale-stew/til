@@ -14,30 +14,30 @@ warrant a full blog post.
 
 ## Categories
 
-- [CSS](#css)
 - [Git](#git)
-- [JavaScript](#javascript)
+- [Kubernetes](#kubernetes)
 - [MacOS](#macos)
+- [Miscellaneous](#miscellaneous)
 - [Node](#node)
-- [Python](#python)
-- [React Native](#react-native)
-- [React](#react)
 - [VSCode](#vscode)
 
 ---
-
+<!--
 ### CSS
 
 - [Using the Z Index](css/using-z-index.md)
+-->
 
 ### Git
 
-- [Undo Your Last Commit](git/undoing-last-commit.md)
-- [Getting to Know Git Interactive Rebase](git/interactive-rebase.md)
+- [Fixing Mistakes in Git](git/fixing-git-mistakes.md)
+- [Getting to Know Git's Interactive Rebase](git/interactive-rebase.md)
 
+<!--
 ### JavaScript
 
 - [topic](javascript/topic.md)
+-->
 
 ### Kubernetes
 
@@ -49,12 +49,13 @@ warrant a full blog post.
 
 ### Miscellaneous
 
-- [Parkinson's Law of Triviality](misc/bikeshedding.md)
+- [Parkinson's Law of Triviality](miscellaneous/bikeshedding.md)
 
 ### Node
 
 - [What Is `require` Doing?](node/what-does-require-do.md)
 
+<!--
 ### Python
 
 - [topic](python/topic.md)
@@ -66,6 +67,7 @@ warrant a full blog post.
 ### React Native
 
 - [topic](react-native/topic.md)
+-->
 
 ### VSCode
 
@@ -86,5 +88,5 @@ I shamelessly stole this idea from [jbranchaud/til](https://github.com/jbranchau
 
 &copy; 2018 Kylie Stewart
 
-This repository is licensed under the MIT license. See `LICENSE` for
+This repository is licensed under the MIT license. See [`LICENSE`](https://github.com/kale-stew/TIL/blob/master/LICENSE) for
 details.
