@@ -33,11 +33,9 @@ warrant a full blog post.
 - [Fixing Mistakes in Git](git/fixing-git-mistakes.md)
 - [Getting to Know Git's Interactive Rebase](git/interactive-rebase.md)
 
-<!--
 ### JavaScript
 
-- [topic](javascript/topic.md)
--->
+- [Filtering Arrays in a Readable Way](javascript/filter-boolean.md)
 
 ### Kubernetes
 
